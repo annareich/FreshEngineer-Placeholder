@@ -1,0 +1,50 @@
+html,
+body {
+  height: 100%;
+}
+body {
+  font-family: Helvetica, Arial, sans-serif;
+
+  background: linear-gradient(#2899b3, #ccf9fc);
+  margin: 10px 0px auto;
+  color: #404040;
+}
+form {
+  display: inline;
+}
+footer {
+  padding: 20px 0px;
+  text-align: center;
+  font-family: monospace;
+  color: #fff;
+}
+h1 {
+  font-size: 50px;
+  font-family: monospace;
+  color: #fff;
+}
+iframe {
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+.card {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px 50px 10px 50px;
+  background-color: rgba(255, 255, 255, 1);
+  border: 0;
+  border-radius: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.container {
+  text-align: center;
+  display: block;
+}
+.github-link {
+  color: #2899b3;
+  transition: all 200ms ease;
+}
+.github-link:hover {
+  color: #5ee1ee;
+}
