@@ -103,6 +103,13 @@ li {
   margin-top: 10px;
   margin-bottom: 10px;
 }
+.clean-link {
+  color: #2899b3;
+  transition: all 200ms ease;
+}
+.clean-link:hover {
+  color: #5ee1ee;
+}
 .container {
   text-align: center;
   display: block;
